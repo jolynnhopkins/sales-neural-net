@@ -1,5 +1,5 @@
 ---
-title: "neualNetSales"
+title: "neuralNetSales"
 author: "JoLynn Hopkins-Butler"
 date: "10/25/2019"
 output: 
